@@ -29,4 +29,5 @@ implementation("com.google.code.gson:gson:2.10.1")
 
 
 ## Link video youtube
---> [Klik disini!]
+--> [Klik disini!] https://youtu.be/szsG-9xn8jo?si=PgW2vufIwzCsR104
+
